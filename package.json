@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/archanpatkar/ExpressService/issues"
   },
-  "homepage": "https://github.com/archanpatkar/ExpressService#readme"
+  "homepage": "https://github.com/archanpatkar/ExpressService#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
