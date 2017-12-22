@@ -1,0 +1,22 @@
+{
+  "name": "expressservice",
+  "version": "1.0.0",
+  "description": "A Express Node Microservice",
+  "main": "service.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archanpatkar/ExpressService.git"
+  },
+  "keywords": [
+    "Microservice"
+  ],
+  "author": "Archan Patkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archanpatkar/ExpressService/issues"
+  },
+  "homepage": "https://github.com/archanpatkar/ExpressService#readme"
+}
