@@ -1,5 +1,5 @@
 # ExpressService
-### An Express.js broiler-plate microservice on Docker
+### An Express.js boiler-plate microservice on Docker
 
 #### [Docker Repo](https://hub.docker.com/r/archanpatkar/expressservice/)
 
